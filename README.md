@@ -43,10 +43,10 @@ ClinsightAI transforms unstructured hospital review data into actionable operati
 
 ### Step 1: Data Cleaning & Text Preprocessing
 
-Raw review text was standardized to improve consistency and analytical reliability.
+Data was first cleaned removing duplicate rows, and irrelevant columns, check for missing values & deal w/ theme, and renaming columns to conform to convention. Next, raw feedback text was normalized to improve consistency and prepare for theme extraction.
 
 This included:
-
+- Normalize text data
 - Text normalization (lowercasing and formatting)
 - Noise removal (punctuation, special characters, non-informative terms)
 - Lemmatization to reduce words to their base form
