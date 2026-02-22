@@ -1,4 +1,4 @@
-# DaSSA_Hackathon_ClinsightAI
+# Hackathon : DaSSA Hackaverse ClinsightAI
 
 
 ## Introduction
