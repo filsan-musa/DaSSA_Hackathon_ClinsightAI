@@ -2,7 +2,7 @@
 
 
 ## Introduction
-This dataset contains sentiment-labeled reviews collected from Google Maps for various hospitals in Bengaluru, India. The feedback includes textual reviews from patients and their families, providing insights into their experiences with medical staff, facilities, and overall hospital services.
+This project was developed during a hackathon to transform hospital review data into structured operational insights. The objective was to move beyond basic sentiment analysis by identifying recurring themes in patient feedback, quantifying their impact on ratings, and translating these findings into actionable recommendations for healthcare providers.
 
 **Data Source:** https://www.kaggle.com/datasets/junaid6731/hospital-reviews-dataset
 
